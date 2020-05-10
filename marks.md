@@ -10,7 +10,6 @@
 
 ## Images
 
-![Certificate 1](https://github.com/username/image.png)
 
 ![Cat](https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg)
 
