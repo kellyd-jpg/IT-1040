@@ -12,6 +12,6 @@
 
 ![Certificate 1](https://github.com/username/image.png)
 
-![Certificate 2](https://www.pexels.com/photo/grey-and-white-short-fur-cat-104827/)
+![Cat](https://en.wiktionary.org/wiki/cat)
 
 [return to home](./README.md)
